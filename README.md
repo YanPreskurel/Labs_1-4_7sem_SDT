@@ -146,3 +146,5 @@ Group number: 153504
   - ASP.NET Identity для аутентификации и авторизации.
 
 # 2. Use-case диаграмма (диаграмма прецедентов)
+![{381C666F-E1A6-4069-9A78-75E7A866C940}](https://github.com/user-attachments/assets/99e16b62-430e-4517-ab0b-a6def71ba33c)
+
