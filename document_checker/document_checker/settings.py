@@ -38,8 +38,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'site_form',
-    'receiver',
-    'document_processor'
 ]
 
 MIDDLEWARE = [
@@ -128,3 +126,6 @@ import os
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
+GOOGLE_DRIVE_DISEASES_JSON_FILE_ID = "1YbzJW_WSVW_evobKcBmwxtnyrb61hdL7"
+GOOGLE_DRIVE_ANALYSIS_JSON_FILE_ID = "1Lypkl3SgBMl8FLbMULcr4_NAIxky73Um"
